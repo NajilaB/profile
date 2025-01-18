@@ -1,4 +1,7 @@
-# Hi, we are still working on things around here. Hopefulle you can come back to a much greater content. Wich can only happen if I "commit"enough to the cause. 
+# Hi.
+### we are still working on things around here.
+##Hopefully you can come back to a much greater content. 
+###Wich can only happen if I "commit"enough to the cause. 
 
  
 
