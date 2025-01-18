@@ -1,8 +1,8 @@
-# Hi.
-### We are still working on things around here.
-## Hopefully you can come back to a much greater content. 
-### Wich can only happen if I "commit"enough to the cause. 
-get it ? I may aswell became a comediam. 
+# Hi
+### We are still working on things around here
+## Hopefully you can come back to a much greater content
+### Wich can only happen if I "commit"enough to the cause
+get it ? I may aswell became a comedian
 
 
  
