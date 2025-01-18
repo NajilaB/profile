@@ -1,4 +1,6 @@
-# profile
+# Hi, we are still working on things around here. Hopefulle you can come back to a much greater content. Wich can only happen if I "commit"enough to the cause. 
+
+ 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=NajilaB&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
