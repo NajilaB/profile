@@ -2,7 +2,7 @@
 
 ## I’m on a journey to level up my content, and the key to that? 
 # 🧐 Commitment. Get it? 🖖🥱
---------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
  
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -22,4 +22,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=NajilaB&icon=0&color=0)](https://visitcount.itsvg.in)
+
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
 
